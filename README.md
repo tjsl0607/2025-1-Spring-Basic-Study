@@ -1,5 +1,5 @@
 # 2025-1-Spring-Basic-Study
-[APPS] 2025-1 'Spring-basic' 스터디 저장소🖥️
+[APPS] 2025-1 'Spring-Basic' 스터디 저장소🖥️
 
 <br>
 
@@ -43,6 +43,6 @@
 ## PR(Pull Request) 규칙
 - 이 repository를 fork해서 본인 이름으로 만든 폴더에서 작업하고 commit후 Pull request를 보냅니다.
 - PR은 각 주차별 학습내용(내용 정리, 실습 코드) commit을 함께 보냅니다.
-- 제목은 `[n주차 spring-basic 스터디] 이름`으로 설정합니다.
-  - ex) [2주차 spring-basic 스터디] 홍길동
+- 제목은 `[n주차 Spring-Basic 스터디] 이름`으로 설정합니다.
+  - ex) [2주차 Spring-Basic 스터디] 홍길동
 - 내용은 어려웠던 점과 배운 점 등 자유롭게 작성합니다.
